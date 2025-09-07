@@ -18,3 +18,8 @@ This project allowed for the user to upload any pdf of their choice, and then wo
 
 A current project I am working on is a totally-encompassing statistics app (MAYBE will call Stats_Hub)
 It will be a tool that will be your one stop shop for all your statistics needs. 
+
+Contact Me!: 
+email: coltstrahan115@gmail.com 
+LinkedIn: www.linkedin.com/in/
+colton-strahan-922a54364
