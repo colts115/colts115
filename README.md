@@ -1,6 +1,6 @@
 # **COLTON STRAHAN**
 
-##*ABOUT ME:*
+## *ABOUT ME:*
 ### Hello I am Colton Strahan, and I am a student at Grace College Majoring in mathematics, and minoring in Information Systems. I am currently delving deep into Data Analysis as well as Data Science and am very excited to utilize my knowledge of mathematics and programming!
 
 ### TECHNICAL SKILLS 
