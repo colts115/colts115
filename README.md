@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<!--
-**colts115/colts115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ABOUT ME:
+Hello I am Colton Strahan, and I am a student at Grace College Majoring in mathematics, and minoring in Information Systems. 
 
 Here are some ideas to get you started:
 
